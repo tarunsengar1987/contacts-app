@@ -1,1 +1,1 @@
-# contacts-app
+# contact-app
